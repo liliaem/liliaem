@@ -4,7 +4,10 @@
 Orizaba, Veracruz, Mexico (UTC-6) · Remote · Any shift, nights and weekends included
 Website: [lili-martinez.vercel.app](https://lili-martinez.vercel.app) · Resume: [cv.pdf](https://lili-martinez.vercel.app/files/cv.pdf)
 
-I'm a biomedical engineer moving into IT and cybersecurity operations. I've fixed surgical equipment during live spine and neurosurgical procedures, spent two years on component-level electronics repair, formatting computers and installing firewalls, and ran my own rental business for almost three years, where I turned recurring guest issues into clear written procedures. Different worlds, same job: spot the problem early and fix it fast, but with precision.
+Engineer driven by curiosity, with a habit of tracing every problem back to its root cause. I investigate issues, isolate the
+cause, and document the fix so it doesn’t happen again. I apply that approach in my own home lab (Wazuh, Splunk Cloud
+and Enterprise), with every investigation documented on GitHub. Years of customer-facing work have made me a patient,
+clear communicator with non-technical people.
 
 Calm, methodical and focused on patterns. I communicate clearly in English and Spanish, and I'm now applying that approach to security monitoring and IT operations.
 
