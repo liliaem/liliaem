@@ -81,4 +81,4 @@ Spanish (native) · English (fluent) · French (basic)
 
 ## Contact
 
-[lili-martinez.vercel.app](https://lili-martinez.vercel.app) · [liliaelba123@gmail.com](mailto:liliaelba123@gmail.com) · [GitHub: soc-home-lab](https://github.com/liliaem/soc-home-lab)
+[lili-martinez.vercel.app](https://lili-martinez.vercel.app)  · [GitHub: soc-home-lab](https://github.com/liliaem/soc-home-lab)
