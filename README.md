@@ -1,7 +1,7 @@
 # Lilia Elba Martínez Rosas
 
 **Technical Support | Security Operations | Biomedical Engineer**
-Orizaba, Veracruz, Mexico (UTC-6) · Remote · Any shift, nights and weekends included
+Mexico (UTC-6) · Remote · Any shift, nights and weekends included
 Website: [lili-martinez.vercel.app](https://lili-martinez.vercel.app) · Resume: [cv.pdf](https://lili-martinez.vercel.app/files/cv.pdf)
 
 Engineer driven by curiosity, with a habit of tracing every problem back to its root cause. I investigate issues, isolate the
