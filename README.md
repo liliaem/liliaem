@@ -1,6 +1,6 @@
 # Lilia Elba Martínez Rosas
 
-**NOC/SOC Analyst | Cybersecurity | Biomedical Engineer**
+**Technical Support | Security Operations | Biomedical Engineer**
 Orizaba, Veracruz, Mexico (UTC-6) · Remote · Any shift, nights and weekends included
 Website: [lili-martinez.vercel.app](https://lili-martinez.vercel.app) · Resume: [cv.pdf](https://lili-martinez.vercel.app/files/cv.pdf)
 
