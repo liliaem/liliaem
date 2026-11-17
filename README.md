@@ -5,7 +5,7 @@ Mexico (UTC-6) · Remote or on-site · Any shift, nights, holidays and weekends 
 Website: [lili-martinez.vercel.app](https://lili-martinez.vercel.app) · Resume: [cv.pdf](https://lili-martinez.vercel.app/files/cv.pdf)
 
 Engineer driven by curiosity, with a habit of tracing every problem back to its root cause. I investigate issues, isolate the
-cause, and document the fix so it doesn’t happen again. I apply that approach in my own home lab (Wazuh, and Splunk Enterprise), with every investigation documented on GitHub. Years of customer-facing work have made me a patient,
+cause, and document the fix so it doesn’t happen again. I apply that approach in my own home lab (Wazuh and Splunk Enterprise), with every investigation documented on GitHub. Years of customer-facing work have made me a patient,
 clear communicator with non-technical people, in English and Spanish. Calm, methodical and focused on patterns.
 
 **Identify, confirm, fix, test.** I document each step so it can be replicated and analyzed.
