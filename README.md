@@ -78,13 +78,13 @@ Entry-level cybersecurity: today's threat landscape and security fundamentals.
 ## Experience
 
 - **Short-Term Rental Operations Manager**, Jul 2023 – Feb 2026
-- **Freelance Electronics Technician**, 2022
+- **Freelance Electronics Technician**, 2020 - 2022
 - **Medical Device Support**, 2019
 - **Research Project**, 2017 – 2018
 
 ## Education
 
-- **B.S. Biomedical Engineering**, Universidad Autónoma Metropolitana (UAM) · 2013 – 2018
+- **B.S. Biomedical Engineering**, Universidad Autónoma Metropolitana (UAM), 2018
 - Published at IEEE EMBC 2018: _Latency and amplitude changes in cognitive event related potentials due to hemodialysis_ · [DOI: 10.1109/EMBC.2018.8512612](https://pubmed.ncbi.nlm.nih.gov/30440814/)
 
 ## Languages
