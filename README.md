@@ -59,6 +59,11 @@ Entry-level cybersecurity: today's threat landscape and security fundamentals.
 | [NA-001](https://github.com/liliaem/soc-home-lab/blob/main/0.4%20Network%20assessments/NA-001%20Household%20Network%20Segmentation.md) | Network Segmentation | Assessed a flat home network and designed a VLAN plan with default-deny firewall policies. Implementation blocked by the ISP-managed gateway; enabled the host firewall instead. |
 | [NA-002](https://github.com/liliaem/soc-home-lab/blob/main/0.4%20Network%20assessments/NA-002%20Network%20recon%20with%20Nmap.md) | Network Recon with Nmap | Built an asset inventory, scanned for open ports and services, and prioritized risks by severity and owner. *In progress.* |
 
+## 0.7 Cloud Security (Microsoft Azure)
+| ID     | Title                                               | Skills                                               |
+| ------ | --------------------------------------------------- | ---------------------------------------------------- |
+| [CS-001](https://github.com/liliaem/soc-home-lab/blob/main/0.7%20Cloud%20Security/CS-001%20%20Entra%20ID%20least%20privilege%20and%20access%20troubleshooting.md)  | Entra ID least privilege and access troubleshooting | Entra ID, Azure RBAC, sign-in and audit log analysis |
+
 **[Personal website](https://lili-martinez.vercel.app)**: built with Next.js, TypeScript, and Tailwind, deployed on Vercel. Includes a live IP reputation checker using the AbuseIPDB REST API, with visits logged in PostgreSQL.
 
 ## Side projects
